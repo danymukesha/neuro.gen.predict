@@ -18,7 +18,7 @@ A Genetic Risk Assessment Tool for Alzheimer's Disease.
 
 For real data, obtain from public repositories like NIAGADS (requires approval). Simulated data is for demo only.
 
-## For Publication/Patent/Startup
+## Nest Steps
 - The tool uses your ensemble method for innovation.
 - Validate on real datasets you acquire.
 - Extend as needed (e.g., add VCF parsing).
