@@ -24,4 +24,3 @@ For real data, obtain from public repositories like NIAGADS (requires approval).
 - Extend as needed (e.g., add VCF parsing).
 
 Author: Dany Mukesha
-# neuro.gen.predict
